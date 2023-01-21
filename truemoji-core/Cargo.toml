@@ -3,7 +3,8 @@ name = "truemoji-core"
 version = "0.1.0"
 edition = "2021"
 authors = ["Robert Yin <bobertoyin@gmail.com"]
-about = "Core library for the Truemoji language specification."
+description = "Core library for the Truemoji language specification."
+repository = "https://github.com/bobertoyin/truemoji/tree/main/truemoji-core"
 license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
